@@ -1,0 +1,34 @@
+.nav {
+    
+    /* padding: 5px; */
+    background-color: lightskyblue
+    ;
+  }
+
+.nav li{display: inline-block;  
+/* padding: 10px 15px;  */
+}
+
+.nav li a{font-family: sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-style: unset; text-decoration-style: none; text-decoration: solid;
+    color: black;
+
+  }
+
+li.home:hover {
+    background-color: gainsboro;
+}
+
+li{padding: 10px 15px;  
+}
+
+  /* span { display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: yellow; 
+
+  } */

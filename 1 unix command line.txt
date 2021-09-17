@@ -1,0 +1,39 @@
+1. mkdir jesslyn
+2. cd jesslyn
+mkdir sekolah
+mkdir kerja
+3. cd sekolah
+touch ijazah.txt
+cat ijazah.txt
+
+jessl@DESKTOP-PTD17S5 MINGW64 ~/jesslyn/sekolah
+$ cat ijazah.txt
+Perkenalkan namaku jesslyn
+
+Aku berasal dari Medan
+
+Salam Kenal :D
+
+touch portfolio.txt
+
+4. cd ..
+5. cd kerja
+touch cv.txt
+cat cv.txt
+
+jessl@DESKTOP-PTD17S5 MINGW64 ~/jesslyn/kerja
+$ cat cv.txt
+Salam,
+
+Perkenalkan namaku jesslyn, saya memiliki kegemaran
+- tidur
+- gambar
+- ngoding
+
+6. pwd
+mv portfolio.txt /c/Users/jessl/jesslyn/kerja
+
+
+
+
+
